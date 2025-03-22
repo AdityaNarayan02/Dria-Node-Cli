@@ -18,7 +18,7 @@ These specs are based on a system with 16 CPUs and 64GB RAM.
 
 For those running without a GPU, we've got you covered too! Here are the specs for different CPU types:
 
-### ARM (4 CPU, 16GB RAM)
+### ARM (4 Cores, 16GB RAM)
 
 | Model          | CPU Usage (cores) | RAM Usage     |
 | -------------- | ----------------- | ------------- |
@@ -28,7 +28,7 @@ For those running without a GPU, we've got you covered too! Here are the specs f
 | Phi3Mini       | 3.2 - 6.1 cores   | 5.6 - 11.4 GB |
 | Llama3_1_8B    | 3.4 - 3.7 cores   | 6.1 GB        |
 
-### ARM (8 CPU, 16GB RAM)
+### ARM (8 Cores, 16GB RAM)
 
 | Model          | CPU Usage (cores) | RAM Usage     |
 | -------------- | ----------------- | ------------- |
@@ -38,7 +38,7 @@ For those running without a GPU, we've got you covered too! Here are the specs f
 | Phi3Mini       | 5.4 - 7.0 cores   | 5.8 - 11.6 GB |
 | Llama3_1_8B    | 3.4 - 4.2 cores   | 6.2 GB        |
 
-### AMD (8 CPU, 16GB RAM)
+### AMD (8 Cores, 16GB RAM)
 
 | Model          | CPU Usage (cores) | RAM Usage     |
 | -------------- | ----------------- | ------------- |
@@ -48,7 +48,7 @@ For those running without a GPU, we've got you covered too! Here are the specs f
 | Phi3Mini       | 2.8 - 3.1 cores   | 5.4 - 11.4 GB |
 | Llama3_1_8B    | 4.5 - 4.6 cores   | 11.1 GB       |
 
-### Intel (8 CPU, 16GB RAM)
+### Intel/Apple Chips (8 Cores, 16GB RAM)
 
 | Model          | CPU Usage (cores) | RAM Usage     |
 | -------------- | ----------------- | ------------- |
