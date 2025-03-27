@@ -18,11 +18,16 @@ ollama --version
 ```
 
 # Installation
-Linux / MacOS
+## Linux / MacOS
 
 ```
  curl -fsSL https://dria.co/launcher | bash 
 ```
+## Powershell(IF WSL NOT WORKING)
+
+```
+ powershell -c "irm https://dria.co/launcher.ps1 | iex"
+ ```
 
 # Enter Refer Code to Earn Extra Steps (Points)
 
@@ -52,6 +57,17 @@ Select the model which suits your system best.To check which model is good for y
 Succesfull logs Should Looks Like-👇
 
 ![image](https://github.com/user-attachments/assets/6b96a558-416c-4267-ac6e-4e2a3b202e9c)
+
+# To Update
+```
+dkn-compute-launcher update
+```
+
+# To Uninstall 
+
+```
+dkn-compute-launcher uninstall
+```
 
 You Can check Your Node status from here-👇 (Enter Your Wallet Address)
 
